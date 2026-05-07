@@ -1,5 +1,5 @@
 data/
-
+ASEC_RAW/
 clean_data/*
 
 !clean_data/hpi_at_county_1993-2013.csv
