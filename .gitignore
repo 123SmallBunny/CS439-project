@@ -2,6 +2,9 @@ data/
 clean_data/*
 ASEC_RAW/
 !clean_data/hpi_at_county_1993-2013.csv
+!clean_data/ACS_county.csv
+!clean_data/ACS_generation.csv
+!clean_data/FMR_clean.csv
 
 .ipynb_checkpoints/
 
