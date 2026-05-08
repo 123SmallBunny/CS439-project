@@ -1,7 +1,6 @@
 data/
-ASEC_RAW/
 clean_data/*
-
+ASEC_RAW/
 !clean_data/hpi_at_county_1993-2013.csv
 
 .ipynb_checkpoints/
