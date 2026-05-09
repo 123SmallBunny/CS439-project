@@ -8,7 +8,7 @@ __pycache__/
 
 # Raw data files
 data/
-
+ASEC_RAW/
 # Keep cleaned data files
 !clean_data/
 !clean_data/*.csv
