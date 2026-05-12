@@ -6,9 +6,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 
-# Raw data files
-data/
+# Large raw CPS files
 ASEC_RAW/
-# Keep cleaned data files
-!clean_data/
-!clean_data/*.csv
+ASEC_RAW.zip

@@ -1,0 +1,42 @@
+county_fips,state_fips,state_name,county_name,cbsa_code,cbsa_name,cbsa_type,central_outlying
+34041,34,New Jersey,Warren County,10900,"Allentown-Bethlehem-Easton, PA-NJ",Metropolitan Statistical Area,Central
+42025,42,Pennsylvania,Carbon County,10900,"Allentown-Bethlehem-Easton, PA-NJ",Metropolitan Statistical Area,Outlying
+42077,42,Pennsylvania,Lehigh County,10900,"Allentown-Bethlehem-Easton, PA-NJ",Metropolitan Statistical Area,Central
+42095,42,Pennsylvania,Northampton County,10900,"Allentown-Bethlehem-Easton, PA-NJ",Metropolitan Statistical Area,Central
+34001,34,New Jersey,Atlantic County,12100,"Atlantic City-Hammonton, NJ",Metropolitan Statistical Area,Central
+34009,34,New Jersey,Cape May County,12100,"Atlantic City-Hammonton, NJ",Metropolitan Statistical Area,Central
+34003,34,New Jersey,Bergen County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+34013,34,New Jersey,Essex County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+34017,34,New Jersey,Hudson County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+34019,34,New Jersey,Hunterdon County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Outlying
+34023,34,New Jersey,Middlesex County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+34025,34,New Jersey,Monmouth County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+34027,34,New Jersey,Morris County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+34029,34,New Jersey,Ocean County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+34031,34,New Jersey,Passaic County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+34035,34,New Jersey,Somerset County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+34037,34,New Jersey,Sussex County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Outlying
+34039,34,New Jersey,Union County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36005,36,New York,Bronx County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36047,36,New York,Kings County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36059,36,New York,Nassau County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36061,36,New York,New York County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36079,36,New York,Putnam County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36081,36,New York,Queens County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36085,36,New York,Richmond County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36087,36,New York,Rockland County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36103,36,New York,Suffolk County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+36119,36,New York,Westchester County,35620,"New York-Newark-Jersey City, NY-NJ",Metropolitan Statistical Area,Central
+10003,10,Delaware,New Castle County,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+24015,24,Maryland,Cecil County,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+34005,34,New Jersey,Burlington County,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+34007,34,New Jersey,Camden County,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+34015,34,New Jersey,Gloucester County,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+34033,34,New Jersey,Salem County,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+42017,42,Pennsylvania,Bucks County,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+42029,42,Pennsylvania,Chester County,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+42045,42,Pennsylvania,Delaware County,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+42091,42,Pennsylvania,Montgomery County,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+42101,42,Pennsylvania,Philadelphia County,37980,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",Metropolitan Statistical Area,Central
+34021,34,New Jersey,Mercer County,45940,"Trenton-Princeton, NJ",Metropolitan Statistical Area,Central
+34011,34,New Jersey,Cumberland County,47220,"Vineland, NJ",Metropolitan Statistical Area,Central
