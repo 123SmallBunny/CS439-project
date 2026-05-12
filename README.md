@@ -51,3 +51,15 @@ Main Python packages used:
 - seaborn
 - scikit-learn
 - jupyter
+
+## Raw CPS Data
+
+The large CPS ASEC raw files are not stored directly in this GitHub repository because some files are over GitHub's normal file size limit.
+
+They are attached separately in the GitHub Release for this project as `ASEC_RAW.zip`.
+
+To rerun CPS cleaning, download `ASEC_RAW.zip`, unzip it into the project root, and make sure the folder path is:
+
+```text
+ASEC_RAW/
+```
