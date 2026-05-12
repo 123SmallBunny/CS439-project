@@ -24,17 +24,22 @@ Full_Merge/MERGED_GENERATIONS.csv
 
 Open the project folder in Jupyter Notebook or JupyterLab.
 
-Recommended notebook order:
+For the final results, run:
 
-1. `notebooks/clean_ACS.ipynb`
-2. `notebooks/clean_FMR.ipynb`
-3. `notebooks/clean_CPS.ipynb`
-4. `Full_Merge/full_merge.ipynb`
-5. `notebooks/eda.ipynb`
-6. `notebooks/modeling.ipynb`
-7. `notebooks/modeling2.ipynb`
+1. `notebooks/eda.ipynb`
+2. `notebooks/modeling.ipynb`
+3. `notebooks/modeling2.ipynb`
 
 The final EDA and modeling notebooks use the merged dataset in `Full_Merge/`.
+
+The cleaning and merge notebooks are included to show the data preparation process:
+
+- `notebooks/clean_ACS.ipynb`
+- `notebooks/clean_FMR.ipynb`
+- `notebooks/clean_CPS.ipynb`
+- `Full_Merge/full_merge.ipynb`
+
+The CPS raw files are large and the fixed-width column positions can change by year, so the cleaned CPS file used for the final project is already included in `Full_Merge/`.
 
 ## Requirements
 
